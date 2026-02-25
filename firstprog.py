@@ -1,0 +1,2 @@
+a=akshatnahar
+printf(a)
