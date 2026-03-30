@@ -1,2 +1,2 @@
-a=akshatnahar
-printf(a)
+a="akshatnahar"
+print(a)
